@@ -5,6 +5,7 @@
 This project analyzes online retail sales data using Microsoft Excel to identify sales trends, top-selling products, and country-wise performance. An interactive dashboard was created using Pivot Tables, Pivot Charts, and slicers.
 
 ## Dataset
+https://github.com/Vamshirao07/FUTURE_DS_01/blob/main/online_retail2.xlsb
 The dataset contains online retail transaction data including:
 Invoice Number
 Stock Code
