@@ -47,7 +47,14 @@ United Kingdom dominates total sales.
 4.Where should the business focus to grow faster?
 Business growth should focus on high-revunue products and expanding strong-performing regions.
 
-## Tools Used
-Microsoft Excel
+## Tools and Technologies Used
+### Microsoft Excel
+Data cleaning
+Pivot tables
+Charts & Graphs
+KPI Cards
+Slicers
+Dashboard Formatting
+
 ## Conclusion
 The Online Retail Sales Analysis project demonstrates how raw sales data can be transformed into meaningful business insights using Excel. Through data cleaning, analysis, and dashboard visualization, key sales trends, top-performing products, and regional performance were identified, helping support better business decision-making and highlighting opportunities for future growth.
